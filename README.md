@@ -13,4 +13,10 @@ Beginner notes on core cybersecurity concept and fundamentals
 - White Hat → Ethical hackers
 - Black Hat → Malicious hackers
 - Grey Hat → Between ethical and malicious
---=
+---
+
+## Malware Types 
+
+- **Virus** -> Infects files
+- **Worm** -> spreads automatically
+- **Trojan** -> Pretend to be safe software 
