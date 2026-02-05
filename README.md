@@ -24,3 +24,4 @@ Beginner notes on core cybersecurity concept and fundamentals
 
   ## Topic covered
   - [Malware types](malware.md)
+  - [Networking basics](network-basics.md)
