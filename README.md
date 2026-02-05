@@ -19,4 +19,8 @@ Beginner notes on core cybersecurity concept and fundamentals
 
 - **Virus** -> Infects files
 - **Worm** -> spreads automatically
-- **Trojan** -> Pretend to be safe software 
+- **Trojan** -> Pretend to be safe software
+  ---
+
+  ## Topic covered
+  - [Malware types](malware.md)
